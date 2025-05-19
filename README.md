@@ -8,4 +8,5 @@ You can clone this repo, and remove the solutions and start from there, if you w
 ```bash
 git clone https://github.com/saugat23/beginner-projects-python.git
 ```
-Level of difficulty goes in this order:  quiz>number_guesser>rock_paper_scissors>password_manager>pig
+Level of difficulty goes in this order:
+quiz>number_guesser>rock_paper_scissors>password_manager>pig
