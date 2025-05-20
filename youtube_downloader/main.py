@@ -16,7 +16,7 @@ def download_video(url, path):
 
 def main():
     print("Hello from youtube-downloader!")
-    download_video("https://www.youtube.com/watch?v=ydOZ5YAv8Hk", "~/Desktop/")
+    download_video("https://www.youtube.com/watch?v=ydOZ5YAv8Hk", "~/Desktop/") #add the youtube video url and download file path here 
 
 
 if __name__ == "__main__":
